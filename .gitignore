@@ -1,0 +1,11 @@
+# binaries and artifacts
+/target
+
+# IDEs and Editors
+.idea
+.idea/**
+.vscode
+.vscode/**
+
+# SQLite database files
+*.db
